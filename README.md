@@ -11,7 +11,7 @@ You can read our tweets here https://twitter.com/modesens
 Email if you are interested to build the future together: careers@modesens.com
 
 We partner with 350+ brands and stores around the world. A peek of our partnership:<br>
-Gucci: https://modesens.com/gucci/<br>
+<a href='https://modesens.com/gucci/'>Gucci</a><br>
 Burberry: https://modesens.com/burberry/<br>
 Saint Laurent: https://modesens.com/saint-laurent/<br>
 Fendi: https://modesens.com/fendi/<br>
