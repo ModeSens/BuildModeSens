@@ -10,7 +10,7 @@ You can read our tweets here https://twitter.com/modesens
 
 Email if you are interested to build the future together: careers@modesens.com
 
-We partner with 350+ brands and stores around the world. A peek of our partnership:<br>
+We partner with 350+ brands and stores around the world. A peek of our partnerships:<br>
 <a href='https://modesens.com/gucci/'>Gucci</a><br>
 <a href='https://modesens.com/burberry/'>Burberry</a><br>
 <a href='https://modesens.com/saint-laurent/'>Saint Laurent</a><br>
