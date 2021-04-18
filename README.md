@@ -15,7 +15,7 @@ We partner with 350+ brands and stores around the world. A peek of our partnersh
 <a href='https://modesens.com/burberry/'>Burberry</a><br>
 <a href='https://modesens.com/saint-laurent/'>Saint Laurent</a><br>
 <a href='https://modesens.com/fendi/'>Fendi</a><br>
-<a href='https://modesens.com/store/nordstrom/'>'>Nordstrom</a><br>
+<a href='https://modesens.com/store/nordstrom/'>Nordstrom</a><br>
 <a href='https://modesens.com/store/saks-fifth-avenue/'>Saks Fifth Avenue</a><br>
 <a href='https://modesens.com/store/neiman-marcus/'>Neiman Marcus</a><br>
 <a href='https://modesens.com/store/net-a-porter/'>NET-A-PORTER</a><br>
